@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YfGitProject.iml" filepath="$PROJECT_DIR$/YfGitProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfK2Pagent/YfK2Pagent.iml" filepath="$PROJECT_DIR$/YfK2Pagent/YfK2Pagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
     </modules>
   </component>
 </project>
