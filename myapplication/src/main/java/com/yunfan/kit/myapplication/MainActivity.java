@@ -3,6 +3,7 @@ package com.yunfan.kit.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.yunfan.encoder.filter.YfFilterFactory;
 import com.yunfan.net.K2Pagent;
 
 public class MainActivity extends AppCompatActivity {
@@ -12,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         K2Pagent k2Pagent;
+        YfFilterFactory factory;
     }
 }
