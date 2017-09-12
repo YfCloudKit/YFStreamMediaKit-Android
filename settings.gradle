@@ -1,1 +1,1 @@
-include ':app', ':YfKit-release'
+include ':YfKit-release'
