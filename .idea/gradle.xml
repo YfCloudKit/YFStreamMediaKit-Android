@@ -8,6 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-encoder" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-encoder-https" />
+            <option value="$PROJECT_DIR$/FFMpeg-decoder-https" />
+            <option value="$PROJECT_DIR$/MuxerLib-editor" />
+            <option value="$PROJECT_DIR$/MuxerLib-link" />
+            <option value="$PROJECT_DIR$/MuxerLib-stream" />
             <option value="$PROJECT_DIR$/YfAuthentication" />
             <option value="$PROJECT_DIR$/YfEncoderKit" />
             <option value="$PROJECT_DIR$/YfFilter" />

@@ -1,1 +1,1 @@
-include ':myapplication', ':YfK2Pagent', ':YfFilter', ':YfAuthentication', ':YfMediaPlayer', ':YfEncoderKit', ':YfVr', ':YfLinkKit'
+include ':myapplication', ':YfK2Pagent', ':YfFilter', ':YfAuthentication', ':YfMediaPlayer', ':YfEncoderKit', ':YfVr', ':YfLinkKit', ':FFMpeg-decoder', ':FFMpeg-decoder-encoder-https', ':FFMpeg-decoder-https', ':FFMpeg-decoder-encoder', ':MuxerLib-stream', ':MuxerLib-link', ':MuxerLib-editor'
