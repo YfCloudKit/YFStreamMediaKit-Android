@@ -15,13 +15,14 @@
             <option value="$PROJECT_DIR$/MuxerLib-editor" />
             <option value="$PROJECT_DIR$/MuxerLib-link" />
             <option value="$PROJECT_DIR$/MuxerLib-stream" />
+            <option value="$PROJECT_DIR$/YfAR" />
             <option value="$PROJECT_DIR$/YfAuthentication" />
             <option value="$PROJECT_DIR$/YfEncoderKit" />
             <option value="$PROJECT_DIR$/YfFilter" />
             <option value="$PROJECT_DIR$/YfK2Pagent" />
             <option value="$PROJECT_DIR$/YfLinkKit" />
             <option value="$PROJECT_DIR$/YfMediaPlayer" />
-            <option value="$PROJECT_DIR$/YfVr" />
+            <option value="$PROJECT_DIR$/YfVR" />
             <option value="$PROJECT_DIR$/myapplication" />
           </set>
         </option>

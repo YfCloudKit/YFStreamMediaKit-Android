@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/MuxerLib-editor/MuxerLib-editor.iml" filepath="$PROJECT_DIR$/MuxerLib-editor/MuxerLib-editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/MuxerLib-link/MuxerLib-link.iml" filepath="$PROJECT_DIR$/MuxerLib-link/MuxerLib-link.iml" />
       <module fileurl="file://$PROJECT_DIR$/MuxerLib-stream/MuxerLib-stream.iml" filepath="$PROJECT_DIR$/MuxerLib-stream/MuxerLib-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YfAR/YfAR.iml" filepath="$PROJECT_DIR$/YfAR/YfAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfAuthentication/YfAuthentication.iml" filepath="$PROJECT_DIR$/YfAuthentication/YfAuthentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfEncoderKit/YfEncoderKit.iml" filepath="$PROJECT_DIR$/YfEncoderKit/YfEncoderKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfFilter/YfFilter.iml" filepath="$PROJECT_DIR$/YfFilter/YfFilter.iml" />
@@ -19,7 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/YfKitLibrary.iml" filepath="$PROJECT_DIR$/YfKitLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfLinkKit/YfLinkKit.iml" filepath="$PROJECT_DIR$/YfLinkKit/YfLinkKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/YfMediaPlayer/YfMediaPlayer.iml" filepath="$PROJECT_DIR$/YfMediaPlayer/YfMediaPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/YfVr/YfVr.iml" filepath="$PROJECT_DIR$/YfVr/YfVr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YfVR/YfVr.iml" filepath="$PROJECT_DIR$/YfVR/YfVr.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
     </modules>
