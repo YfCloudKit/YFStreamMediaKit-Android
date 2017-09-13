@@ -21,11 +21,6 @@ android {
             jniLibs.srcDirs = ['libs']
         }
     }
-    repositories {
-        flatDir {
-            dirs 'libs'
-        }
-    }
 }
 
 dependencies {

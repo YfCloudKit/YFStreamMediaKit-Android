@@ -8,8 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/YfAuthentication" />
+            <option value="$PROJECT_DIR$/YfEncoderKit" />
             <option value="$PROJECT_DIR$/YfFilter" />
             <option value="$PROJECT_DIR$/YfK2Pagent" />
+            <option value="$PROJECT_DIR$/YfLinkKit" />
+            <option value="$PROJECT_DIR$/YfMediaPlayer" />
+            <option value="$PROJECT_DIR$/YfVr" />
             <option value="$PROJECT_DIR$/myapplication" />
           </set>
         </option>

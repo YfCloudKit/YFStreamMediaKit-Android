@@ -1,1 +1,1 @@
-include ':myapplication', ':YfK2Pagent', ':YfFilter'
+include ':myapplication', ':YfK2Pagent', ':YfFilter', ':YfAuthentication', ':YfMediaPlayer', ':YfEncoderKit', ':YfVr', ':YfLinkKit'
