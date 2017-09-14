@@ -7,6 +7,9 @@ YfKitLibrary包含了云帆加速提供的Android直播推流、连麦、短视�
 ## 1、选择所需组件
 对于不同的使用场景，我们提供了更细致的库的区分，以最优化sdk库的大小。
 所有库说明如下：
+
+---
+
 SDK | 简称 | 说明
 ---|---|---
 YfPlayerKit | 播放库 | 播放引擎主体部分，需结合对应ffmpeg使用
@@ -27,6 +30,8 @@ MuxerLib-link| 直播、连麦mux库 | 内置回声消除、直播推流的混�
 
 ***其中，播放库是必须自选至少一个ffmpeg库配合使用的，编码推流库则必须自选一个ffmpeg及muxer库配合使用。***
 
+---
+
 场景 | SDK | 可选
 ---|---|---
 播放 | 播放库+鉴权库+解码ffmpeg库| VR/UDP/https解码ffmpeg
@@ -34,6 +39,8 @@ MuxerLib-link| 直播、连麦mux库 | 内置回声消除、直播推流的混�
 推流+播放 | 播放库+推流库+鉴权库+编解码ffmpeg库+直播mux库 |VR/UDP/https编解码ffmpeg/AR
 推流+播放+短视频| 播放库+推流库+鉴权库+编解码ffmpeg库+直播编辑mux库 | 	VR/UDP/https编解码ffmpeg/AR
 推流+播放+连麦 | 播放库+推流库+鉴权库+编解码ffmpeg库+直播连麦mux库+连麦库 | VR/UDP/https编解码ffmpeg/AR
+
+---
 
 如有除了上述场景外的使用需求，可与我们联系定制化裁剪SDK。
 
@@ -75,6 +82,9 @@ MuxerLib-link| 直播、连麦mux库 | 内置回声消除、直播推流的混�
 每次发布release版本，我们也会同步放出release note，大家可以通过点击Github上的Release标签查看版本日志。
 
 下面是以版本v1.0.3为例，各库的依赖集成路径
+
+--- 
+
 SDK | 路径
 ---|---
 YfPlayerKit | com.github.YfCloudKit.YfKitLibrary:YfMediaPlayer:-v1.0.3
