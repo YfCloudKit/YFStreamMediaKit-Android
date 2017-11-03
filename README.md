@@ -76,7 +76,7 @@ MuxerLib-link| 直播、连麦mux库 | 内置回声消除、直播推流的混�
 
 其中，-SNAPSHOT代表我们上传至github的最新版本，为了保证稳定，建议使用我们在github上发布的release版，代码示例如下：
 ```
-    compile 'com.github.YfCloudKit.YfKitLibrary:YfMediaPlayer:-v1.0.3'
+    compile 'com.github.YfCloudKit.YfKitLibrary:YfMediaPlayer:v1.0.3'
 ```
 
 每次发布release版本，我们也会同步放出release note，大家可以通过点击Github上的Release标签查看版本日志。
@@ -87,18 +87,18 @@ MuxerLib-link| 直播、连麦mux库 | 内置回声消除、直播推流的混�
 
 SDK | 路径
 ---|---
-YfPlayerKit | com.github.YfCloudKit.YfKitLibrary:YfMediaPlayer:-v1.0.3
-YfEncoderKit | com.github.YfCloudKit.YfKitLibrary:YfEncoderKit:-v1.0.3
-YfAuthentication | com.github.YfCloudKit.YfKitLibrary:YfAuthentication:-v1.0.3
-YfK2Pagent | com.github.YfCloudKit.YfKitLibrary:YfK2Pagent:-v1.0.3
-YfAR |  com.github.YfCloudKit.YfKitLibrary:YfAR:-v1.0.3
-YfVR |  com.github.YfCloudKit.YfKitLibrary:YfVR:-v1.0.3
-YfFilter | com.github.YfCloudKit.YfKitLibrary:YfFilter:-v1.0.3
-YfLinkKit | com.github.YfCloudKit.YfKitLibrary:YfLinkKit:-v1.0.3
-FFMpeg-decoder | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder:-v1.0.3
-FFMpeg-decoder-encoder | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-encoder:-v1.0.3
-FFMpeg-decoder-https | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-https:-v1.0.3
-FFMpeg-decoder-encoder-https| com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-encoder-https:-v1.0.3
-MuxerLib-stream| com.github.YfCloudKit.YfKitLibrary:MuxerLib-stream:-v1.0.3
-MuxerLib-editor|com.github.YfCloudKit.YfKitLibrary:MuxerLib-editor:-v1.0.3
-MuxerLib-link| com.github.YfCloudKit.YfKitLibrary:MuxerLib-link:-v1.0.3
+YfPlayerKit | com.github.YfCloudKit.YfKitLibrary:YfMediaPlayer:v1.0.3
+YfEncoderKit | com.github.YfCloudKit.YfKitLibrary:YfEncoderKit:v1.0.3
+YfAuthentication | com.github.YfCloudKit.YfKitLibrary:YfAuthentication:v1.0.3
+YfK2Pagent | com.github.YfCloudKit.YfKitLibrary:YfK2Pagent:v1.0.3
+YfAR |  com.github.YfCloudKit.YfKitLibrary:YfAR:v1.0.3
+YfVR |  com.github.YfCloudKit.YfKitLibrary:YfVR:v1.0.3
+YfFilter | com.github.YfCloudKit.YfKitLibrary:YfFilter:v1.0.3
+YfLinkKit | com.github.YfCloudKit.YfKitLibrary:YfLinkKit:v1.0.3
+FFMpeg-decoder | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder:v1.0.3
+FFMpeg-decoder-encoder | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-encoder:v1.0.3
+FFMpeg-decoder-https | com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-https:v1.0.3
+FFMpeg-decoder-encoder-https| com.github.YfCloudKit.YfKitLibrary:FFMpeg-decoder-encoder-https:v1.0.3
+MuxerLib-stream| com.github.YfCloudKit.YfKitLibrary:MuxerLib-stream:v1.0.3
+MuxerLib-editor|com.github.YfCloudKit.YfKitLibrary:MuxerLib-editor:v1.0.3
+MuxerLib-link| com.github.YfCloudKit.YfKitLibrary:MuxerLib-link:v1.0.3
